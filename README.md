@@ -22,7 +22,7 @@ pod "BlinkingLabel"
 
 ## Author
 
-Courtland Caldwell, courtland.caldwell@cympel.com
+Courtland Caldwell, caldwecr@gmail.com
 
 ## License
 
